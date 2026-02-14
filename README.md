@@ -1,10 +1,15 @@
 # Desafío 1 #
 ## Tarea de Universidad don Bosco ##
 ### Integrantes ###
+
 • Kevin Alexander Soriano Chávez	(SC180431) 
+
 • Norma Susana García Galdámez  	 (GG253588)  
+
 • Carlos Alberto Cornejo Calderón (CC251978) 
+
 • David Antonio Leiva Martinez (LM160828)
+
 ### Materia ###
 Programación Orientada a Objetos POO901 G01T (Virtual) 
 
